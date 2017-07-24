@@ -9,6 +9,10 @@
   max-width: 64rem;
 }
 
+.container.narrow {
+  max-width: 56rem;
+}
+
 
 /* Medium and Small Screens - 640px */
 
