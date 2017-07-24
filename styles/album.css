@@ -1,9 +1,9 @@
-body.album {
-  background-image: url(../assets/images/blurred_backgrounds/blur_bg_2.jpg);
+body.collection {
+  background-image: url(../assets/images/blurred_backgrounds/blur_bg_1.jpg);
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment:fixed;
   background-position: center center;
-  background-size:cover;
+  background-size: cover;
 }
 
 .album-cover-art {
