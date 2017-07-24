@@ -80,7 +80,7 @@ body {
   position: absolute;
   top: 0;
   right: 0;
-  height: 50px;
+  height: 50px; /* Adjusted height here */
   color: white;
 }
 
@@ -96,13 +96,16 @@ body {
   letter-spacing: .05rem;
   font-weight: 700;
   text-transform: uppercase;
-  /* Adding Underline back to link
-  text-decoration: none; */
+  text-decoration: none;
   cursor: pointer;
 }
 
 .links-container .navbar-link:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(201, 252, 121);
+}
+
+.links-container .navbar-link:active {
+  background-color: white;
 }
 
 .clearfix:before,
